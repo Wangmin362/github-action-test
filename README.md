@@ -1,2 +1,2 @@
 # github-action-test
-用于测试GithubAction
+用于测试Github Action
